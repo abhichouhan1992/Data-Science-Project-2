@@ -1,4 +1,4 @@
-# Data-Science-Project-2
+# Mall Customer Segmentation Project
 Mall Customers Segmentation using K-Means clustering
 # Introduction
 The dataset used is of Mall customers which has 200 samples with there features; CustomerID genre,age, annual income and spending score.
